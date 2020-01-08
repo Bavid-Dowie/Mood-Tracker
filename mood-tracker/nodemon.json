@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "p455w0rd"
+  }
+}
